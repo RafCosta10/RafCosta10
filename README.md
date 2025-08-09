@@ -40,4 +40,4 @@ Outside of engineering, you’ll find me:
 ---
 
 💬 *Let’s connect!*  
-📧 Reach me via [LinkedIn](www.linkedin.com/in/rafaelcosta05) or check out my projects here on GitHub.
+📧 Reach me via [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Costa-blue?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/rafaelcosta05/)) or check out my projects here on GitHub.
