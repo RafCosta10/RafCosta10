@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Rafael Costa
 
 🎓 Electrical Engineering - Innovation Stream @ Queen's University  
-🔭 Research Assistant @ [BVEX](https://www.physics.queensu.ca/people/bvex/)  
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Rafael%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-costa99/)](www.linkedin.com/in/rafaelcosta05)
+🔭 Research Assistant @ [BVEX](https://www.queensu.ca/physics/fissel/research)  
 
 ---
 
@@ -16,7 +14,6 @@ As a **Research Assistant** on the **Balloon-borne Very Large Baseline Interfero
 - **Sensor integration & calibration**  
 - **Software development** (Python, C)  
 - **Hardware testing & data analysis**  
-- **Collaborating in multidisciplinary teams**
 
 ---
 
