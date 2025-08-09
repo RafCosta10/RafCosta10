@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rafael Costa
+# 👋 Hi, I'm Rafael
 
 🎓 Electrical Engineering - Innovation Stream @ Queen's University  
 🔭 Research Assistant @ [BVEX](https://www.queensu.ca/physics/fissel/research)  
